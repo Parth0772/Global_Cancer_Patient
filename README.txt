@@ -71,22 +71,6 @@ The aim was to uncover **patterns in demographics, cancer types, risk factors, s
 
 ---
 
-## 📎 How to Run  
-1. Clone this repository  
-```bash
-git clone https://github.com/yourusername/cancer-data-analysis.git
-```
-2. Install dependencies  
-```bash
-pip install -r requirements.txt
-```
-3. Run the Jupyter Notebook  
-```bash
-jupyter notebook Cancer_Data_Analysis.ipynb
-```
-
----
-
 ## 📌 Author  
 👨‍💻 **Parth Sharma**  
 - Data Analyst | Python | SQL | Power BI | Machine Learning  
